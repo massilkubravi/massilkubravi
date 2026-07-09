@@ -60,8 +60,8 @@ CS student | Software Engineering | AI & Data Enthusiast | Building practical so
 
 <h3 align="left">What I'm Building</h3>
 
-- 📊 End-to-end ML projects (data → model → evaluation)
-- 🚀 API-based model serving using **FastAPI**
-- 🧩 Algorithmic problem-solving in **Python**
-- 🛠️ Clean, readable, version-controlled code
-
+💻 Software Engineering | AI & Data Enthusiast  
+🚀 Building applications, APIs, and technology-driven solutions  
+🤖 Exploring machine learning and data-driven approaches  
+🧩 Practicing problem-solving through DSA and programming  
+🛠️ Creating clean, scalable, and maintainable code
