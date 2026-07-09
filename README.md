@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Massil Nissar</h1>
+<h1 align="center">Hi, I'm Massil Nissar</h1>
 
 <h3 align="center">
-AI Developer | Python | Machine Learning | Backend-Oriented Engineer
+AI Developer | Python | Machine Learning | Data-Driven solutions
 </h3>
 
 <p align="center">
