@@ -10,11 +10,7 @@ I build intelligent systems using data, models, and code  not just notebooks.
 
 ---
 
-- 🧠 Focused on **Python for AI**, **Machine Learning**, and **Core DSA**
-- 🤖 Working with **ML models, data pipelines, and inference systems**
-- ⚙️ Interested in **model deployment, backend integration, and scalability**
-- 🎯 Goal: become a **production-level AI / Software Engineer**
-- 📫 Contact: **massilnissar@gmail.com**
+CS student | Software Engineering | AI & Data Enthusiast | Building practical solutions through code and continuous learning.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=massil0987&theme=dark&hide_border=false&layout=compact">
 
